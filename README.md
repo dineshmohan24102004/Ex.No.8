@@ -12,6 +12,12 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 Advances in AI have revolutionized how audio content is created and manipulated, enabling the generation of music, sound effects, and voice narration with unprecedented ease and flexibility. AI models respond to carefully crafted prompts—textual or parametric inputs that guide the system’s output—making prompting techniques essential tools for controlling audio generation.
 These techniques allow creators to influence style, mood, instruments, and vocal characteristics, broadening the creative possibilities across various domains. Practical applications include entertainment production, where AI can compose original scores, customer service, with AI-generated voice assistants, and the creative arts, offering new ways for musicians and sound designers to experiment and innovate.
 This section sets the foundation for exploring diverse prompting methods that enable precise and effective AI-driven audio synthesis and manipulation.
+
+
+
+## link 
+
+https://drive.google.com/drive/folders/1BwiGmEehXktSLb22xfDW8kFVY-wxeAOk
 # Overview of Prompting Techniques for Audio Generation
 AI-driven audio generation employs several prompting techniques to control and enhance output quality, style, and relevance. The most common method is direct textual prompting, where users provide descriptive text instructions—such as specifying genre, instruments, mood, or vocal tone—which the AI interprets to generate corresponding audio content.
 Another advanced approach involves multi-modal inputs, combining text with audio cues like reference clips or waveform parameters. This technique enables finer control by embedding contextual information directly within the prompt, allowing models to produce outputs that align closely with the given examples or stylistic nuances.
