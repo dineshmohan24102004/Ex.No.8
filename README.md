@@ -18,6 +18,7 @@ This section sets the foundation for exploring diverse prompting methods that en
 1.Birds and insects make noise during the daytime
 
 2.give me  a audio Large explosions sound.
+
 3.A dog barks and whimpers give me audio for that
 
 4.A racing car is passing by and disappear.
