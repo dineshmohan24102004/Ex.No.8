@@ -1,4 +1,4 @@
-## Exp 8: Reproducing an Image Using Prompts for Audio Generation
+## Exp 8: Exploration of Prompting Techniques for Audio Generation
 
 # Date :02/05/2025
 # Reg. No. 212222040039
